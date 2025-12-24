@@ -26,7 +26,9 @@ A real-time object detection Android application built using:
 
 ## 📱 Screenshots
 
-> (Add screenshots here later)
+<p align="center">
+  <img src="screenshots/object_detection_demo.png" width="900" />
+</p>
 
 ## 🚀 Getting Started
 
