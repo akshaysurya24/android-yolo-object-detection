@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+
+# Kotlin
+*.kotlin_module
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# Generated files
+captures/
+
+# Optional: if you want to exclude model (see note below)
+# app/src/main/assets/*.tflite
